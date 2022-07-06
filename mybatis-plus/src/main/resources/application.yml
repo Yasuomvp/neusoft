@@ -1,0 +1,14 @@
+
+spring:
+  datasource:
+    hikari:
+      minimum-idle: 5
+      maximum-pool-size: 10
+      max-lifetime: 30000
+
+    username: rick
+    password: Yasuomvp131213
+    url: jdbc:mysql://workout996.icu:3306/neusoft
+logging:
+  level:
+    sql: debug

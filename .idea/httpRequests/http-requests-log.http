@@ -1,0 +1,7 @@
+GET http://localhost:8080/api/get
+Accept: application/json
+
+<> 2022-07-05T102655.200.json
+
+###
+
